@@ -1,4 +1,4 @@
-![Screenshot_1705079120](https://github.com/DEVQamaRSulTaN/image_background_remover/assets/139233554/9e731862-4ced-421c-8314-3a517c0af8f0)# image_background_remover with MVVM and Povider StateManagement
+## image_background_remover with MVVM and Povider StateManagement
 
 First Flutter Project Of  24
 
@@ -12,8 +12,7 @@ First Flutter Project Of  24
 
 
 
-![Screenshot_1704988867](https://github.com/DEVQamaRSulTaN/image_background_remover/assets/139233554/c4ff5777-4083-4e66-820b-09dd7b226c35)![Uploading Screenshot_1705079082.png…]()
-
+![Screenshot_1704988867](https://github.com/DEVQamaRSulTaN/image_background_remover/assets/139233554/e222d64e-1332-4f88-81a6-7be6ce40fa0e)  ![Screenshot_1705079082](https://github.com/DEVQamaRSulTaN/image_background_remover/assets/139233554/705e82b2-29b7-4fba-bc33-c1f764873dd6)
 
 This project is a starting point for a Flutter application.
 
