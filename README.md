@@ -1,8 +1,17 @@
-# image_background_remover
+# image_background_remover with MVVM and Povider StateManagement
 
-A new Flutter project.
+First Flutter Project Of  24
 
 ## Getting Started
+
+## API From remove.bg
+
+## In this Project User will Select  a picture from his mobile storage then it's bacjground will remove through api.
+## and Also can it in Mobile's storage in a seperate Folder.
+
+
+
+
 
 This project is a starting point for a Flutter application.
 
