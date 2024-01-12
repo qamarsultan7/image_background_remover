@@ -12,7 +12,8 @@ First Flutter Project Of  24
 
 
 
-![Screenshot_1704988867](https://github.com/DEVQamaRSulTaN/image_background_remover/assets/139233554/e222d64e-1332-4f88-81a6-7be6ce40fa0e)  ![Screenshot_1705079082](https://github.com/DEVQamaRSulTaN/image_background_remover/assets/139233554/705e82b2-29b7-4fba-bc33-c1f764873dd6)
+<img width="741" alt="no bg" src="https://github.com/DEVQamaRSulTaN/image_background_remover/assets/139233554/4f6bc167-38cd-48bd-a8d2-3d62673be784">
+
 
 This project is a starting point for a Flutter application.
 
